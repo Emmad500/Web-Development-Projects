@@ -1,0 +1,19 @@
+.cart {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .cart-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
